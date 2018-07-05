@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Zmienna to przechowalnia różnego typu danych");
         System.out.println("Każda zmienna musi mieć określony typ wartości, np. int, albo String.");
         System.out.println("W klasie mogą się znajdować metody, konstruktory, klasy i obiekty");
-        System.out.println("Klasy są wywoływane przez operator new i służą do tworzenia nowych obiektów.");
+        System.out.println("Konstruktory są wywoływane przez operator new i służą do tworzenia nowych obiektów.");
         System.out.println("Jeśli w klasie zdefiniowano chociaż jeden konstruktor to kompilator nie wygeneruje dla nas konstruktora domyślnego");
         System.out.println();
         System.out.println("car1 nazywamy referencją nowego obiektu");
